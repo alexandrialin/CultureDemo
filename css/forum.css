@@ -1,0 +1,704 @@
+/* screen - forum */
+
+.forum {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2462px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.forum .chinese-qUdiio {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 3.0px;
+  margin-top: -153px;
+  min-height: 61px;
+  min-width: 150px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  width: 150px;
+}
+.forum .cooking-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 35px;
+  margin-top: 60px;
+  min-height: 33px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 105px;
+}
+.forum .egyptian-4a9k2Y {
+  background-color: transparent;
+  height: auto;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.forum .explore-stuff-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 15px;
+  min-height: 32px;
+  min-width: 160px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 160px;
+}
+.forum .filipino-kLouK3 {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 225px;
+}
+.forum .flex-col-4eduM0 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 232px;
+  min-height: 570px;
+  position: absolute;
+  top: 541px;
+  width: 355px;
+}
+.forum .flex-col-Xi618D {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 34px;
+  margin-top: 60px;
+  min-height: 44px;
+  position: relative;
+  width: 103px;
+}
+.forum .flex-col-dXBp89 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 359px;
+  position: relative;
+  width: 599px;
+}
+.forum .flex-row-C61RwL {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 435px;
+  justify-content: flex-start;
+  min-width: 1506px;
+  position: relative;
+  width: auto;
+}
+.forum .flex-row-VMr6Om {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 255px;
+  justify-content: flex-start;
+  margin-left: 19.0px;
+  margin-top: 60px;
+  min-width: 1155px;
+  position: relative;
+  width: auto;
+}
+.forum .flex-row-qUdiio {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 255px;
+  justify-content: flex-start;
+  margin-top: 152px;
+  min-width: 355px;
+  position: relative;
+  width: auto;
+}
+.forum .forum-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 171px;
+  min-height: 96px;
+  min-width: 599px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 599px;
+}
+.forum .forum-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 1.0px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.forum .greek-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 1146px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 959px;
+  width: 138px;
+}
+.forum .group-18-iQaBfH {
+  background-color: transparent;
+  height: 45px;
+  left: 134px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.forum .group-19-iQaBfH {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.forum .group-20-iQaBfH {
+  background-color: transparent;
+  height: 45px;
+  left: 249px;
+  position: absolute;
+  top: 55px;
+  width: 121px;
+}
+.forum .haitian-4a9k2Y {
+  background-color: transparent;
+  height: auto;
+  left: 662px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.forum .home-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 10px;
+  margin-top: 60px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.forum .home-dXBp89:hover {
+
+transform: scale(1.1);
+}
+.forum .indian-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 748px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 959px;
+  width: 131px;
+}
+.forum .indigenous-4a9k2Y {
+  background-color: transparent;
+  height: auto;
+  left: 263px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 105px;
+  width: 225px;
+}
+.forum .iranian-ATEpp4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: -260px;
+  margin-top: 12.0px;
+  min-height: 61px;
+  min-width: 167px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  width: 167px;
+}
+.forum .isreali-5WaCop {
+  background-color: transparent;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 225px;
+}
+.forum .japanese-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 737px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 643px;
+  width: 200px;
+}
+.forum .kenyan-dF0Bjd {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 103px;
+  width: 265px;
+}
+.forum .korean-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 1142px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #000000b2;
+  top: 648px;
+  width: 157px;
+}
+.forum .line-2-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-top: 7px;
+  position: relative;
+  width: 103px;
+}
+.forum .line-3-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 16px;
+  margin-top: 55px;
+  position: relative;
+  width: 2px;
+}
+.forum .line-6-4eduM0 {
+  background-color: transparent;
+  height: 62px;
+  left: 230px;
+  position: absolute;
+  top: 439px;
+  width: 3px;
+}
+.forum .log-in-aCpxd9 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.forum .log-out-fcVkHF {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.forum .logo-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 45px;
+  min-width: 107px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 107px;
+}
+.forum .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1111px;
+  margin-top: 80px;
+  position: relative;
+  width: 1601px;
+}
+.forum .overlap-group1-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 399px;
+  margin-left: 20px;
+  position: relative;
+  width: 387px;
+}
+.forum .overlap-group2-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 464px;
+  margin-left: 35px;
+  margin-top: 60px;
+  position: relative;
+  width: 1352px;
+}
+.forum .overlap-group3-BdpSxK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  position: relative;
+  width: 355px;
+}
+.forum .overlap-group4-BdpSxK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-left: 48px;
+  position: relative;
+  width: 355px;
+}
+.forum .overlap-group5-BdpSxK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 255px;
+  margin-left: 42px;
+  position: relative;
+  width: 355px;
+}
+.forum .rectangle-10-5WaCop {
+  background-color: #318508;
+  border-radius: 44px;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.forum .rectangle-11-dF0Bjd {
+  background-color: #442727;
+  border-radius: 44px;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.forum .rectangle-12-4a9k2Y {
+  background-color: #bb1f1c;
+  border-radius: 44px;
+  height: 255px;
+  left: 197px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.forum .rectangle-13-4a9k2Y {
+  background-color: #f0c65c;
+  border-radius: 44px;
+  height: 255px;
+  left: 600px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.forum .rectangle-14-4a9k2Y {
+  background-color: #d3b08f;
+  border-radius: 44px;
+  height: 255px;
+  left: 997px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.forum .rectangle-2-AeFxih {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.forum .rectangle-2-aCpxd9 {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.forum .rectangle-2-fcVkHF {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.forum .rectangle-3-qUdiio {
+  background-color: #ff2020;
+  border-radius: 44px;
+  flex-shrink: 1;
+  height: 255px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 355px;
+}
+.forum .rectangle-4-4eduM0 {
+  background-color: #ff9999;
+  border-radius: 44px;
+  height: 255px;
+  left: 635px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 541px;
+  width: 355px;
+}
+.forum .rectangle-5-4eduM0 {
+  background-color: #460998;
+  border-radius: 44px;
+  height: 255px;
+  left: 1032px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 541px;
+  width: 355px;
+}
+.forum .rectangle-6-ATEpp4 {
+  background-color: #ff9900;
+  border-radius: 44px;
+  flex-shrink: 1;
+  height: 255px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 355px;
+}
+.forum .rectangle-7-4eduM0 {
+  background-color: #007d0cb2;
+  border-radius: 44px;
+  height: 255px;
+  left: 635px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 856px;
+  width: 355px;
+}
+.forum .rectangle-8-4eduM0 {
+  background-color: #0378e3;
+  border-radius: 44px;
+  height: 255px;
+  left: 1032px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 856px;
+  width: 355px;
+}
+.forum .rectangle-9-kLouK3 {
+  background-color: #c55f26;
+  border-radius: 44px;
+  height: 255px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 355px;
+}
+.forum .share-and-learn-ent-experiences-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 447px;
+  width: 802px;
+}
+.forum .sign-up-AeFxih {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 121px;
+}
+.forum .skills-dXBp89 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 45px;
+  margin-top: 60px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.forum .vector-1-iQaBfH {
+  background-color: transparent;
+  height: 399px;
+  left: 111px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.forum .vector-14-4a9k2Y {
+  background-color: transparent;
+  height: 298px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 166px;
+  width: 1336px;
+}
+.forum .vector-15-4eduM0 {
+  background-color: transparent;
+  height: 631px;
+  left: 966px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 305px;
+  width: 635px;
+}
+.forum .vector-2-4eduM0 {
+  background-color: transparent;
+  height: 305px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 786px;
+}

@@ -1,0 +1,277 @@
+/* screen - egyptian */
+
+.egyptian {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 3341px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1600px;
+}
+.egyptian .egyptian-XAvKzU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 94px;
+  min-height: 96px;
+  min-width: 543px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 543px;
+}
+.egyptian .explore-stuff-XAvKzU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 98px;
+  margin-top: 15px;
+  min-height: 32px;
+  min-width: 160px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 160px;
+}
+.egyptian .flex-col-0PZcXW {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 171px;
+  min-height: 731px;
+  position: relative;
+  width: 1009px;
+}
+.egyptian .flex-col-5AJyKP {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 32px;
+  margin-top: 5px;
+  min-height: 44px;
+  position: relative;
+  width: 83px;
+}
+.egyptian .flex-col-dXBp89 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 968px;
+  position: relative;
+  width: 1223px;
+}
+.egyptian .flex-row-0PZcXW {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 66px;
+  justify-content: flex-start;
+  min-width: 1125px;
+  position: relative;
+  width: auto;
+}
+.egyptian .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 1023px;
+  justify-content: flex-start;
+  min-width: 1600px;
+  position: relative;
+  width: auto;
+}
+.egyptian .forum-5AJyKP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 44px;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 84px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 84px;
+}
+.egyptian .group-8-h7LeMT {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 102px;
+}
+.egyptian .home-5AJyKP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 680px;
+  margin-top: 5px;
+  min-height: 33px;
+  min-width: 80px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+.egyptian .home-5AJyKP:hover {
+
+transform: scale(1.1);
+}
+.egyptian .learn-japanese-stuff-lol-XAvKzU {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 142px;
+  min-height: 61px;
+  min-width: 802px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 802px;
+}
+.egyptian .line-1-5AJyKP {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 42px;
+  margin-left: 13px;
+  position: relative;
+  width: 2px;
+}
+.egyptian .line-2-TIsVZl {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 3px;
+  margin-top: 7px;
+  position: relative;
+  width: 83px;
+}
+.egyptian .log-in-ZVLzuP {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 84px;
+}
+.egyptian .logo-5AJyKP {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 45px;
+  min-width: 107px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 107px;
+}
+.egyptian .overlap-group-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 399px;
+  margin-left: 22px;
+  position: relative;
+  width: 354px;
+}
+.egyptian .rectangle-2-ZVLzuP {
+  background-color: var(--ogre-odor);
+  border-radius: 6px;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.egyptian .rectangle-40-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 557px;
+  margin-top: 43px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 1090px;
+}
+.egyptian .skills-TIsVZl {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: 1px;
+  min-height: 33px;
+  min-width: 69px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 69px;
+}
+.egyptian .vector-1-h7LeMT {
+  background-color: transparent;
+  height: 399px;
+  left: 78px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 276px;
+}
+.egyptian .vector-2-XAvKzU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 305px;
+  margin-top: 80px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 786px;
+}
