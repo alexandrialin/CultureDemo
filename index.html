@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1600, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/home.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="home" />
+    <div class="container-center-horizontal">
+      <form class="home screen" name="form1" action="form1" method="post">
+        <div class="flex-col-C61RwL">
+          <div class="flex-row-0xy0vn">
+            <div class="logo-GyJUNH cabin-normal-black-27px">LOGO</div>
+            <div class="flex-col-GyJUNH">
+              <div class="home-3xHcwy smart-layers-pointers cabin-normal-black-27px">Home</div>
+              <img class="line-2-3xHcwy" src="img/line-2@2x.svg" />
+            </div>
+          </div>
+          <div class="overlap-group1-0xy0vn">
+            <img class="vector-2-NG5cxJ" src="img/vector-2@1x.svg" />
+            <h1 class="title-NG5cxJ cabin-bold-black-72px">Learn with Culture Connect</h1>
+            <div class="explore-stuff-NG5cxJ cabin-normal-star-dust-27px">Explore stuff</div>
+            <div class="get-started-NG5cxJ">GET STARTED</div>
+            <a href="javascript:SubmitForm('form1')"
+              ><img class="group-5-NG5cxJ smart-layers-pointers" src="img/group-5@1x.png"
+            /></a>
+          </div>
+        </div>
+        <div class="overlap-group-C61RwL">
+          <img class="vector-1-4eduM0" src="img/vector-1@2x.svg" />
+          <div class="flex-col-4eduM0">
+            <div class="flex-row-qUdiio">
+              <a href="skills.html"><div class="skills-ATEpp4 cabin-normal-black-27px">Skills</div></a>
+              <div class="forum-ATEpp4 cabin-normal-black-27px">Forum</div>
+              <a href="cooking.html"><div class="cooking-ATEpp4 cabin-normal-black-27px">Cooking</div></a>
+              <img class="line-1-ATEpp4" src="img/line-1@2x.svg" />
+            </div>
+            <div class="ellipse-5-qUdiio"></div>
+            <div class="ellipse-3-qUdiio"></div>
+          </div>
+          <div class="group-8-4eduM0">
+            <div class="rectangle-2-VcRGOC"></div>
+            <div class="log-in-VcRGOC cabin-normal-white-27px">Log in</div>
+          </div>
+          <div class="group-6-4eduM0">
+            <div class="group-1-xfBdmy">
+              <img class="vector-3-Asjzqf" src="img/vector-3@2x.svg" />
+              <img class="vector-4-Asjzqf" src="img/vector-4@2x.svg" />
+            </div>
+            <div class="group-9-xfBdmy">
+              <div class="group-2-QWF8RR">
+                <img class="vector-3-JLbks6" src="img/vector-3-1@2x.svg" />
+                <img class="vector-4-JLbks6" src="img/vector-4-1@2x.svg" />
+              </div>
+            </div>
+            <div class="group-3-xfBdmy">
+              <img class="vector-3-n8FGai" src="img/vector-3-2@2x.svg" />
+              <img class="vector-4-n8FGai" src="img/vector-4-2@2x.svg" />
+            </div>
+            <img class="vector-5-xfBdmy" src="img/vector-5@2x.svg" />
+            <img class="vector-6-xfBdmy" src="img/vector-6@2x.svg" />
+            <img class="vector-7-xfBdmy" src="img/vector-7@2x.svg" />
+          </div>
+          <div class="ellipse-1-4eduM0"></div>
+          <div class="ellipse-6-4eduM0"></div>
+          <div class="ellipse-4-4eduM0"></div>
+          <div class="ellipse-2-4eduM0"></div>
+        </div>
+      </form>
+    </div>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>
